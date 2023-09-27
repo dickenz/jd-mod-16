@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CI_CD.SumCalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-09-27T15:33:38" hostname="DESKTOP-MD7H4GV" time="0.03">
+  <properties/>
+  <testcase name="testSumWithPositiveNumberGreaterThanOne()" classname="CI_CD.SumCalculatorTest" time="0.024"/>
+  <testcase name="testSumWithPositiveNumber()" classname="CI_CD.SumCalculatorTest" time="0.001"/>
+  <testcase name="testSumWithZero()" classname="CI_CD.SumCalculatorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
